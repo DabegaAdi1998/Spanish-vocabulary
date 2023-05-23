@@ -1,0 +1,28 @@
+img{
+    height: 200px; 
+    width: 200px;
+    
+}
+.color-title {
+    font-weight: normal;
+  }
+#id[value = "red"]{
+    color: red;
+    
+}
+
+#id [value = "blue"]{
+    color : blue
+}
+#id [value ="orange"]{
+color : orange
+}
+
+
+#id [value ="green"]{
+    color : green;
+}
+
+#id [value ="yellow"]{
+    color: yellow;
+}
